@@ -1,0 +1,8 @@
+body {
+    background-color: lavender;
+}
+ul {
+    list-style: circle;
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+}
